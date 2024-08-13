@@ -11,11 +11,11 @@ const createDoctor = z.object({
     registrationNumber: z.string(),
     experience: z.number().int(),
     gender: z.enum(['MALE', 'FEMALE']),
-    apointmentFee: z.number(),
+    appointmentFee: z.number(),
     qualification: z.string(),
     currentWorkingPlace: z.string(),
     designation: z.string(),
-  })
+  }),
 });
 
 const createAdmin = z.object({
@@ -23,8 +23,8 @@ const createAdmin = z.object({
   admin: z.object({
     email: z.string().email(),
     name: z.string(),
-    contactNumber: z.string()
-  })
+    contactNumber: z.string(),
+  }),
 });
 
 const createPatient = z.object({
@@ -33,12 +33,12 @@ const createPatient = z.object({
     email: z.string().email(),
     name: z.string(),
     contactNumber: z.string({
-      required_error: "Contact number is required!"
+      required_error: 'Contact number is required!',
     }),
     address: z.string({
-      required_error: "Address is required"
-    })
-  })
+      required_error: 'Address is required',
+    }),
+  }),
 });
 
 const updateStatus = z.object({

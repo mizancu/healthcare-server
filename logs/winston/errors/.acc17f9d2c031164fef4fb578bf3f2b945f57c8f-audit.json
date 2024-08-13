@@ -1,0 +1,50 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/mizankhancu/projects/healthcare/HealthCare-Server/logs/winston/errors/.acc17f9d2c031164fef4fb578bf3f2b945f57c8f-audit.json",
+    "files": [
+        {
+            "date": 1723076812876,
+            "name": "/Users/mizankhancu/projects/healthcare/HealthCare-Server/logs/winston/errors/phu-2024-07-08-17-error.log",
+            "hash": "b0a28a2b595151db84102da7a880e6a3a44ef025b140b3327112e9b5cb3101bd"
+        },
+        {
+            "date": 1723078800622,
+            "name": "/Users/mizankhancu/projects/healthcare/HealthCare-Server/logs/winston/errors/phu-2024-07-08-18-error.log",
+            "hash": "db0ae530896e974665a4ac94526f17b395305971cb633860d2ef94cec6a85bec"
+        },
+        {
+            "date": 1723311742465,
+            "name": "/Users/mizankhancu/projects/healthcare/HealthCare-Server/logs/winston/errors/phu-2024-10-08-10-error.log",
+            "hash": "8556f4a8856db543619c05129621e9b97b5ac0d78b84ca6a6f9cab468316b0ff"
+        },
+        {
+            "date": 1723317260222,
+            "name": "/Users/mizankhancu/projects/healthcare/HealthCare-Server/logs/winston/errors/phu-2024-10-08-12-error.log",
+            "hash": "64e5b512d661d70f09e3e19943bffe099323b9a81818e827e0d728b76df9cc77"
+        },
+        {
+            "date": 1723442361880,
+            "name": "/Users/mizankhancu/projects/healthcare/HealthCare-Server/logs/winston/errors/phu-2024-11-08-22-error.log",
+            "hash": "82dfc49adce6ada2d75a07c3e9762499d54335489c5bb2b6e760c9b03e342529"
+        },
+        {
+            "date": 1723442564443,
+            "name": "/Users/mizankhancu/projects/healthcare/HealthCare-Server/logs/winston/errors/phu-2024-11-08-23-error.log",
+            "hash": "d4e9f58ee3b6780a596211648d36f060e6a89ade4dff58fdc2eef21536e43cf4"
+        },
+        {
+            "date": 1723480284992,
+            "name": "/Users/mizankhancu/projects/healthcare/HealthCare-Server/logs/winston/errors/phu-2024-12-08-09-error.log",
+            "hash": "4c4f761455cd2d0ff24e100c5e989af917cd210588063f59aa99f566b74f5c8e"
+        },
+        {
+            "date": 1723510427272,
+            "name": "/Users/mizankhancu/projects/healthcare/HealthCare-Server/logs/winston/errors/phu-2024-12-08-17-error.log",
+            "hash": "9e7759932622dd88ce340d8ebcd8699a8b8b09d4542b5c0c7d80783cd269696e"
+        }
+    ],
+    "hashType": "sha256"
+}

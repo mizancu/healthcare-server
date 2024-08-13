@@ -1,0 +1,50 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/mizankhancu/projects/healthcare/HealthCare-Server/logs/winston/successes/.96e3375854838161fe991b6d233463d319e94652-audit.json",
+    "files": [
+        {
+            "date": 1723076812874,
+            "name": "/Users/mizankhancu/projects/healthcare/HealthCare-Server/logs/winston/successes/phu-2024-07-08-17-success.log",
+            "hash": "a56475a416ffa87d0d212525631709f172b4c0023b716a754a146dac7c2b697e"
+        },
+        {
+            "date": 1723079061059,
+            "name": "/Users/mizankhancu/projects/healthcare/HealthCare-Server/logs/winston/successes/phu-2024-07-08-18-success.log",
+            "hash": "aa0ddf4099c610011a659bd363db5482b29f33b4ce1b7a58dcf0731e72349dc0"
+        },
+        {
+            "date": 1723311742463,
+            "name": "/Users/mizankhancu/projects/healthcare/HealthCare-Server/logs/winston/successes/phu-2024-10-08-10-success.log",
+            "hash": "35b7d1f67ce9db0d34091f385419b4bde726dd62b73c887fb6d77198a8350ffb"
+        },
+        {
+            "date": 1723317260220,
+            "name": "/Users/mizankhancu/projects/healthcare/HealthCare-Server/logs/winston/successes/phu-2024-10-08-12-success.log",
+            "hash": "a328fcaf0c88f09c9b255f0490d6e2f46b39d4ad78f126157e0cc9b45ebebc2d"
+        },
+        {
+            "date": 1723442361877,
+            "name": "/Users/mizankhancu/projects/healthcare/HealthCare-Server/logs/winston/successes/phu-2024-11-08-22-success.log",
+            "hash": "062135641661504ceda33b9f1f07ab3d9a257e6a543179fb08b51725ee4f47da"
+        },
+        {
+            "date": 1723442564442,
+            "name": "/Users/mizankhancu/projects/healthcare/HealthCare-Server/logs/winston/successes/phu-2024-11-08-23-success.log",
+            "hash": "ff0a7cefb9d62ad0bb07e7fac529836dec7d82eb170bdb8af2996a96463c21df"
+        },
+        {
+            "date": 1723480284989,
+            "name": "/Users/mizankhancu/projects/healthcare/HealthCare-Server/logs/winston/successes/phu-2024-12-08-09-success.log",
+            "hash": "2a0239e94c6c6de333e05d0d25f51b4df0ae1f09b6a4168e18bcd90c54d11d97"
+        },
+        {
+            "date": 1723510427270,
+            "name": "/Users/mizankhancu/projects/healthcare/HealthCare-Server/logs/winston/successes/phu-2024-12-08-17-success.log",
+            "hash": "606b8eab43d02fce6b12c9103c87e0759e25e351026791b2f176564ae68efaa4"
+        }
+    ],
+    "hashType": "sha256"
+}
